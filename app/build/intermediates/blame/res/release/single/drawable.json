@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\circle.png",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\src\\main\\res\\drawable\\circle.png"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\borda_linha.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\src\\main\\res\\drawable\\borda_linha.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\listagem.png",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\src\\main\\res\\drawable\\listagem.png"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\utilextras.png",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\src\\main\\res\\drawable\\utilextras.png"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\financesmall.png",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\src\\main\\res\\drawable\\financesmall.png"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\adicionar.png",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\src\\main\\res\\drawable\\adicionar.png"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\restore.png",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\src\\main\\res\\drawable\\restore.png"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sobre.png",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\src\\main\\res\\drawable\\sobre.png"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\proximo.png",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\src\\main\\res\\drawable\\proximo.png"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\categoria.png",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\src\\main\\res\\drawable\\categoria.png"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\deleteicon.png",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\src\\main\\res\\drawable\\deleteicon.png"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\edit.png",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\src\\main\\res\\drawable\\edit.png"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\close.png",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\src\\main\\res\\drawable\\close.png"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\app_background.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\src\\main\\res\\drawable\\app_background.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\save.png",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\src\\main\\res\\drawable\\save.png"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\finance.png",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\src\\main\\res\\drawable\\finance.png"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\pagar.png",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\src\\main\\res\\drawable\\pagar.png"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\anterior.png",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\src\\main\\res\\drawable\\anterior.png"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\drawable\\backup.png",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\src\\main\\res\\drawable\\backup.png"
+    }
+]

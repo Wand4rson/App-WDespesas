@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:2:1-85:12
+	package
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:5:5-82
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:5:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:6:5-97
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:7:5-89
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:7:22-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.INTERNET
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:10:5-83
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:11:22-76
+application
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:13:5-83:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] E:\Proj.Mobile\WDespesas\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] E:\Proj.Mobile\WDespesas\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] E:\Proj.Mobile\WDespesas\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] E:\Proj.Mobile\WDespesas\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] E:\Proj.Mobile\WDespesas\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] E:\Proj.Mobile\WDespesas\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] E:\Proj.Mobile\WDespesas\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] E:\Proj.Mobile\WDespesas\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:17:9-35
+	android:allowBackup
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:15:9-43
+	android:theme
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:18:9-40
+activity#br.com.wdespesas.wdespesas.dashboard
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:screenOrientation
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:22:13-49
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:21:19-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:27:27-74
+activity#br.com.wdespesas.wdespesas.sobre
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:31:9-32:61
+	android:screenOrientation
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:32:13-49
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:31:19-66
+activity#br.com.wdespesas.wdespesas.categoria_lista
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:34:9-35:61
+	android:screenOrientation
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:34:19-76
+activity#br.com.wdespesas.wdespesas.categoria_add
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:37:9-38:61
+	android:screenOrientation
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:37:19-74
+activity#br.com.wdespesas.wdespesas.categoria_alterar
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:40:9-41:61
+	android:screenOrientation
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:40:19-78
+activity#br.com.wdespesas.wdespesas.despesa_add
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:43:9-44:61
+	android:screenOrientation
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:43:19-72
+activity#br.com.wdespesas.wdespesas.despesa_alterar
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:46:9-47:61
+	android:screenOrientation
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:47:13-49
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:46:19-76
+activity#br.com.wdespesas.wdespesas.despesa_lista
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:49:9-50:61
+	android:screenOrientation
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:49:19-74
+activity#br.com.wdespesas.wdespesas.utils.AtivaDesativaAlarme
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:52:9-53:61
+	android:screenOrientation
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:53:13-49
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:52:19-60
+activity#br.com.wdespesas.wdespesas.despesa_detalhes
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:55:9-56:61
+	android:screenOrientation
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:56:13-49
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:55:19-51
+activity#br.com.wdespesas.wdespesas.activity_util_sqlite
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:58:9-59:61
+	android:screenOrientation
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:59:13-49
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:58:19-55
+receiver#br.com.wdespesas.wdespesas.broadcasts.BroadcastReceiverAux
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:62:9-67:20
+	android:label
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:62:67-103
+	android:exported
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:62:104-128
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:62:19-66
+intent-filter#ALARME_DISPARADO_DESPESA+android.intent.category.DEFAULT
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:63:13-66:29
+action#ALARME_DISPARADO_DESPESA
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:64:17-66
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:64:25-64
+category#android.intent.category.DEFAULT
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:65:17-75
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:65:27-73
+service#br.com.wdespesas.wdespesas.service.IniciaAlarmeServiceBOOT
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:69:9-73:19
+	android:exported
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:69:66-90
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:69:18-65
+intent-filter#ALARME_BOOT_INICIA_DESPESA
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:70:13-72:29
+action#ALARME_BOOT_INICIA_DESPESA
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:71:17-76
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:71:25-66
+receiver#br.com.wdespesas.wdespesas.broadcasts.BroadcastReceiverBOOT
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:75:9-81:20
+	android:exported
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:76:13-37
+	android:permission
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:77:13-75
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:75:19-67
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:78:13-80:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:79:17-79
+	android:name
+		ADDED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml:79:25-76
+uses-sdk
+INJECTED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.1.1] E:\Proj.Mobile\WDespesas\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] E:\Proj.Mobile\WDespesas\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] E:\Proj.Mobile\WDespesas\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] E:\Proj.Mobile\WDespesas\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] E:\Proj.Mobile\WDespesas\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] E:\Proj.Mobile\WDespesas\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] E:\Proj.Mobile\WDespesas\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] E:\Proj.Mobile\WDespesas\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] E:\Proj.Mobile\WDespesas\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Proj.Mobile\WDespesas\app\src\main\AndroidManifest.xml

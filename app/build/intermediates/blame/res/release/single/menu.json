@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_lista_categoria.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\src\\main\\res\\menu\\menu_lista_categoria.xml"
+    },
+    {
+        "merged": "E:\\Proj.Mobile\\WDespesas\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_lista_despesas.xml",
+        "source": "E:\\Proj.Mobile\\WDespesas\\app\\src\\main\\res\\menu\\menu_lista_despesas.xml"
+    }
+]

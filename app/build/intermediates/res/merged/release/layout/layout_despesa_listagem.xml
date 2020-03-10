@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/layoutButtonTop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Janeiro/2016"
+            android:gravity="center"
+            android:textColor="@color/colorBranco"
+            android:background="@color/colorPrimary"
+            android:textSize="20dp"
+            android:id="@+id/tvMesAno"
+            android:layout_above="@+id/lvDespesas"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentTop="true"></TextView>
+
+        <Button
+            android:id="@+id/btnLeft"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:drawableLeft="@drawable/anterior"
+            android:background="@color/colorPrimary"
+            android:layout_marginLeft="10dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true">
+        </Button>
+
+        <Button
+            android:id="@+id/btnRight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:drawableRight="@drawable/proximo"
+            android:background="@color/colorPrimary"
+            android:layout_marginRight="10dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true">
+        </Button>
+
+        <ListView
+            android:id="@+id/lvDespesas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_weight="1"
+            android:headerDividersEnabled="true"
+            android:divider="@color/colorBlack"
+            android:dividerHeight="1dp"
+            android:layout_below="@+id/btnLeft"
+            android:layout_above="@+id/tvTotalRodape"></ListView>
+
+        <TextView
+            android:id="@+id/tvTotalRodape"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Total R$ 0,00"
+            android:gravity="bottom|right"
+            android:textColor="@color/colorBranco"
+            android:background="@color/colorPrimary"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:layout_alignParentBottom="true"
+            android:layout_alignLeft="@+id/lvDespesas"
+            android:layout_alignStart="@+id/lvDespesas"></TextView>
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/btnDespesasAdd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|end"
+            android:src="@android:drawable/ic_input_add"
+            android:tint="@color/colorBranco"
+            android:layout_above="@+id/tvTotalRodape"
+            android:layout_alignRight="@+id/btnRight"
+            android:layout_alignEnd="@+id/btnRight"
+            android:layout_marginBottom="29dp" />
+
+    </RelativeLayout>
+
+</android.support.design.widget.CoordinatorLayout>
+

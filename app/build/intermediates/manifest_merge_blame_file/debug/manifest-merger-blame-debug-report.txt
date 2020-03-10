@@ -1,0 +1,121 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="br.com.wdespesas.wdespesas"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.VIBRATE" />
+11-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:6:5-82
+11-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:6:22-63
+12    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+12-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:7:5-97
+12-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+13-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:8:5-9:63
+13-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:8:22-70
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:10:5-80
+14-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:10:22-78
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:11:5-79
+15-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:11:22-77
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:12:5-83
+16-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:12:22-64
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:13:5-78
+17-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:13:22-76
+18
+19    <application
+19-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:15:5-60:19
+20        android:allowBackup="true"
+20-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:16:9-35
+21        android:debuggable="true"
+22        android:icon="@mipmap/ic_launcher"
+22-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:17:9-43
+23        android:label="@string/app_name"
+23-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:18:9-41
+24        android:supportsRtl="true"
+24-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:19:9-35
+25        android:theme="@style/AppTheme" >
+25-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:20:9-40
+26        <activity
+26-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:23:9-31:20
+27            android:name="br.com.wdespesas.wdespesas.dashboard"
+27-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:23:19-70
+28            android:screenOrientation="fullSensor" >
+28-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:24:13-51
+29            <intent-filter>
+29-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:26:13-30:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:27:17-69
+30-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:27:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:29:17-77
+32-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:29:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity
+35-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:33:9-34:63
+36            android:name="br.com.wdespesas.wdespesas.sobre"
+36-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:33:19-66
+37            android:screenOrientation="fullSensor" />
+37-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:34:13-51
+38        <activity
+38-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:36:9-37:63
+39            android:name="br.com.wdespesas.wdespesas.categoria_lista"
+39-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:36:19-76
+40            android:screenOrientation="fullSensor" />
+40-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:37:13-51
+41        <activity
+41-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:39:9-40:63
+42            android:name="br.com.wdespesas.wdespesas.categoria_add"
+42-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:39:19-74
+43            android:screenOrientation="fullSensor" />
+43-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:40:13-51
+44        <activity
+44-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:42:9-43:63
+45            android:name="br.com.wdespesas.wdespesas.categoria_alterar"
+45-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:42:19-78
+46            android:screenOrientation="fullSensor" />
+46-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:43:13-51
+47        <activity
+47-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:45:9-46:63
+48            android:name="br.com.wdespesas.wdespesas.despesa_add"
+48-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:45:19-72
+49            android:screenOrientation="fullSensor" />
+49-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:46:13-51
+50        <activity
+50-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:48:9-49:63
+51            android:name="br.com.wdespesas.wdespesas.despesa_alterar"
+51-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:48:19-76
+52            android:screenOrientation="fullSensor" />
+52-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:49:13-51
+53        <activity
+53-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:51:9-52:63
+54            android:name="br.com.wdespesas.wdespesas.despesa_lista"
+54-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:51:19-74
+55            android:screenOrientation="fullSensor" />
+55-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:52:13-51
+56        <activity
+56-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:54:9-55:63
+57            android:name="br.com.wdespesas.wdespesas.despesa_detalhes"
+57-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:54:19-51
+58            android:screenOrientation="fullSensor" />
+58-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:55:13-51
+59        <activity
+59-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:57:9-58:63
+60            android:name="br.com.wdespesas.wdespesas.activity_util_sqlite"
+60-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:57:19-55
+61            android:screenOrientation="fullSensor" />
+61-->C:\Users\Wanderson\AndroidStudioProjects\WDespesas\app\src\main\AndroidManifest.xml:58:13-51
+62    </application>
+63
+64</manifest>

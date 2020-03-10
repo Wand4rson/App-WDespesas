@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_categoria_listagem.xml.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\layout\\layout_categoria_listagem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_utilextras.png.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\drawable\\utilextras.png"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_background.xml.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\drawable\\app_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pagar.png.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\drawable\\pagar.png"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_linha_despesa.xml.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\layout\\layout_linha_despesa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_despesa_add.xml.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\layout\\layout_despesa_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backup.png.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\drawable\\backup.png"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_restore.png.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\drawable\\restore.png"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_listagem.png.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\drawable\\listagem.png"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_anterior.png.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\drawable\\anterior.png"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_save.png.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\drawable\\save.png"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_sobre.xml.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\layout\\layout_sobre.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_financesmall.png.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\drawable\\financesmall.png"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_despesa_listagem_modelo.xml.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\layout\\layout_despesa_listagem_modelo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_lista_categoria.xml.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\menu\\menu_lista_categoria.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\layout_dashboard.xml.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\layout\\dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_adicionar.png.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\drawable\\adicionar.png"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_proximo.png.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\drawable\\proximo.png"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_deleteicon.png.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\drawable\\deleteicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_despesa_copia.xml.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\layout\\layout_despesa_copia.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_lista_despesas.xml.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\menu\\menu_lista_despesas.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_close.png.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\drawable\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_despesa_detalhes.xml.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\layout\\layout_despesa_detalhes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit.png.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\drawable\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sobre.png.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\drawable\\sobre.png"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\layout_ly_activity_util_sqlite.xml.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\layout\\ly_activity_util_sqlite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_categoria_add.xml.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\layout\\layout_categoria_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_categoria.png.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\drawable\\categoria.png"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_despesa_alterar.xml.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\layout\\layout_despesa_alterar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle.png.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\drawable\\circle.png"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_finance.png.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\drawable\\finance.png"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_borda_linha.xml.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\drawable\\borda_linha.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_despesa_listagem.xml.flat",
+        "source": "C:\\Users\\Wanderson\\AndroidStudioProjects\\WDespesas\\app\\src\\main\\res\\layout\\layout_despesa_listagem.xml"
+    }
+]

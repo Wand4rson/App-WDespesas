@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.com.wdespesas.wdespesas"
+    android:versionCode="5"
+    android:versionName="5.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="br.com.wdespesas.wdespesas.dashboard"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="br.com.wdespesas.wdespesas.sobre"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="br.com.wdespesas.wdespesas.categoria_lista"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="br.com.wdespesas.wdespesas.categoria_add"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="br.com.wdespesas.wdespesas.categoria_alterar"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="br.com.wdespesas.wdespesas.despesa_add"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="br.com.wdespesas.wdespesas.despesa_alterar"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="br.com.wdespesas.wdespesas.despesa_lista"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="br.com.wdespesas.wdespesas.utils.AtivaDesativaAlarme"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="br.com.wdespesas.wdespesas.despesa_detalhes"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="br.com.wdespesas.wdespesas.activity_util_sqlite"
+            android:screenOrientation="portrait" />
+
+        <receiver
+            android:name="br.com.wdespesas.wdespesas.broadcasts.BroadcastReceiverAux"
+            android:exported="false"
+            android:label="BroadcastReceiverAux" >
+            <intent-filter>
+                <action android:name="ALARME_DISPARADO_DESPESA" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="br.com.wdespesas.wdespesas.service.IniciaAlarmeServiceBOOT"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="ALARME_BOOT_INICIA_DESPESA" />
+            </intent-filter>
+        </service>
+
+        <receiver
+            android:name="br.com.wdespesas.wdespesas.broadcasts.BroadcastReceiverBOOT"
+            android:exported="false"
+            android:permission="android.permission.RECEIVE_BOOT_COMPLETED" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

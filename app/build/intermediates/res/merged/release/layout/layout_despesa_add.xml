@@ -1,0 +1,102 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/edtdescricao"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:layout_gravity="center_vertical"
+            android:hint="Descrição despesa"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+
+
+    <TextView
+        android:text="Categoria Despesa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:layout_gravity="center_vertical"/>
+
+    <Spinner
+        android:id="@+id/spnCategorias"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></Spinner>
+
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <EditText
+        android:id="@+id/edtVencimento"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:focusable="false"
+        android:inputType="none"
+        android:hint="Data de Vencimento"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <EditText
+        android:id="@+id/edtValorParcela"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:inputType="numberDecimal"
+        android:layout_gravity="center_vertical"
+        android:hint="Valor Despesa R$"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.v7.widget.AppCompatCheckBox
+        android:id="@+id/chkRepetirParcelas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Repetir Parcelas ?"
+        android:checked="false"/>
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/lblQtdeParcelas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="invisible">
+        <EditText
+            android:id="@+id/edtQtdeParcelas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:inputType="number"
+            android:layout_gravity="center_vertical"
+            android:hint="Qtde Parcelas"
+            android:visibility="invisible"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+
+    <Button
+        android:id="@+id/btnDespesaSalvar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Salvar"
+        android:drawableTop="@drawable/save"/>
+
+
+</LinearLayout>
